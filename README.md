@@ -3,5 +3,6 @@
 
 
 - 🖥 Experiência em UX/UI
+- 🖥 Experiência em Figma/Adobe XD
 - 🌱 Estudando JavaScript
-- 🌱 Estudando Html, CSS
+- 🌱 Estudando TypeScript
